@@ -1,0 +1,17 @@
+{
+  "name": "gridsome-preview",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/remark-prismjs": "^0.0.5",
+    "@gridsome/source-filesystem": "^0.5.0",
+    "@gridsome/transformer-remark": "^0.3.2",
+    "gridsome": "^0.6.0",
+    "@noxify/gridsome-source-git" : "^1.0.2",
+    "@noxify/gridsome-plugin-remark-embed" : "^1.0.3"
+  }
+}
