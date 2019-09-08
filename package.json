@@ -12,6 +12,7 @@
     "@gridsome/transformer-remark": "^0.3.2",
     "gridsome": "^0.6.0",
     "@noxify/gridsome-source-git" : "^1.0.2",
-    "@noxify/gridsome-plugin-remark-embed" : "^1.0.3"
+    "@noxify/gridsome-plugin-remark-embed" : "^1.0.3",
+    "remark-toc": "^6.0.0"
   }
 }
