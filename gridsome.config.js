@@ -20,7 +20,10 @@ module.exports = {
           plugins: [
             ['remark-toc'],
             ['@noxify/gridsome-plugin-remark-embed', {
-              'enabledProviders': ['Youtube', 'Twitter', 'Gist', 'Codepen', 'Soundcloud', 'JSFiddle']
+              'enabledProviders': ['Youtube', 'Twitter', 'Gist', 'Codepen', 'Soundcloud', 'JSFiddle', 'Giphy'],
+              'Gist' : {
+                secureConnection: true
+              }
             }]
           ]
         }
