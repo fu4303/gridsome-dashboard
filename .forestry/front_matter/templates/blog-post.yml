@@ -39,3 +39,5 @@ fields:
       file: 
       path: 
   label: Status
+pages:
+- content/blog/test-blog-entry-1.md
