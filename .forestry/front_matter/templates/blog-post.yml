@@ -21,12 +21,3 @@ fields:
   config:
     maxSize: 64
   label: Cover Image
-- name: content
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Content
