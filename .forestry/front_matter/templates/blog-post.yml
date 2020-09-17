@@ -40,4 +40,5 @@ fields:
       path: 
   label: Status
 pages:
+- content/blog/test-blog-entry-1-copy.md
 - content/blog/test-blog-entry-1.md
